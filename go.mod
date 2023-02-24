@@ -23,8 +23,8 @@ require (
 	github.com/urfave/cli v1.21.0
 	github.com/vbauerster/mpb v3.4.0+incompatible
 	github.com/youtube/vitess v2.1.1+incompatible // indirect
-	golang.org/x/crypto v0.0.0-20190820162420-60c769a6c586
-	golang.org/x/net v0.0.0-20190420063019-afa5a82059c6
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0
 	mvdan.cc/sh v2.6.3+incompatible
 )
 
